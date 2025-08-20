@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Wendy  
 
-<!--
-**wendydesilva/wendydesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **IT Student @ Douglas College** | 🌍 Based in Vancouver, Canada  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🔭 I’m currently working on projects in **Java, PHP, and Web Development**  
+- 🌱 I’m learning **Cloud Computing, AI concepts, and Full-Stack Development**  
+- 👯 I’m looking to collaborate on **open-source projects** and student research  
+- 💬 Ask me about **software development, databases, and mobile apps**  
+- ⚡ Fun fact: I love building projects that make learning more interactive!  
+
+---
+
+### 📫 How to Reach Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/wendy-de-silva)  
+
+
+---
+
+⭐️ *Thanks for visiting my GitHub profile! Feel free to check out my repositories and connect with me.*  
