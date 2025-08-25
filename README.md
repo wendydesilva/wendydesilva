@@ -8,8 +8,8 @@
 - 🔭 I’m currently strengthening my skills in **Java, PHP,  Python Web Development, and Databases**  
 - 🌱 Exploring **Cloud Computing, AI concepts, and Full-Stack Development**  
 - 👯 Excited to collaborate on **industry projects**  
-- 🤝 Actively seeking **Co-op / Internship opportunities in Software Development**  
-- 💬 Ask me about **object-oriented programming, database design, and building user-friendly applications**  
+- 🤝 Actively seeking **Co-op / Internship opportunities in Software Development or Quality Assurance**  
+- 💬 Ask me about **object-oriented programming, database design, software testing**  
 - ⚡ Fun fact: I enjoy creating projects that turn complex concepts into simple, interactive solutions!  
 
 ---
